@@ -43,3 +43,17 @@ print("Using dict: ", using_dict)
 #             values = ['Alice', 23, 'Paris', 'France']
 #    Create dictionary by combining these lists
 #    Use zip() and dict()
+
+print("\n--- Q2: Create from Lists ---")
+
+keys = ['name', 'age', 'city', 'country']
+values = ['Alice', 23, 'Paris', 'France']
+
+print("Keys: ", keys)
+print("Values: ", values)
+print()
+
+combined = dict(zip(keys, values))
+print("Dictionary: ", combined)
+
+# ----------------------------------------------------------
