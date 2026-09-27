@@ -108,3 +108,13 @@ print("'model' not in car: ", 'model' not in car)
 # ==========================================================
 # PART C:   Modifying Dictionaries
 # ==========================================================
+
+# Q5: Modify dictionary values
+#    Given: 
+#         product = {'name' : 'Laptop', 'price' : 10000, 
+#                      'stock' : 10}
+#    Modify:
+#    - Change price to 9999
+#    - Increase stock by 5
+#    - Add new key 'discount' with value 10
+#    Print dictionary after each change 
