@@ -72,3 +72,14 @@ print("Dictionary: ", combined)
 #    - Use get() method to safely access 'course'
 
 print("\n--- Q3: Accessing Values ---")
+
+student = {'name' : 'Alice', 'age' : 20, 'grade' : 'A', 'gpa' : 3.8}
+print("Student:", student)
+
+print("Name:", student['name'])
+print("Age: ", student['age'])
+
+print("Course (using get()):", student.get('course'))
+print("Course (with default):", student.get('course', 'Not Assigned'))
+
+# ----------------------------------------------------------
