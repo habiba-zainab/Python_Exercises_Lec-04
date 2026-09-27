@@ -37,3 +37,9 @@ print("Mixed: ", mixed)
 print("Using dict: ", using_dict)
 
 # ----------------------------------------------------------
+
+# Q2: Dictionary from two lists
+#    Given:   keys = ['name', 'age', 'city', 'country']
+#             values = ['Alice', 23, 'Paris', 'France']
+#    Create dictionary by combining these lists
+#    Use zip() and dict()
