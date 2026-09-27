@@ -23,3 +23,9 @@
 #    Print each dictionary
 
 print("\n--- Q1: Creating Dictionaries ---")
+
+empty = {}
+person = {'name' : 'John', 'age': 25, 'city' : 'NYC'}
+students = {101: 'alice', 102: 'Bob', 103: 'Charlie'}
+mixed = {'name' : 'Product', 'price' : 99.99, 'available' : True, 'stock' : 50}
+using_dict = dict(a=1, b=2, c=3)
