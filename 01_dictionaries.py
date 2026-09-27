@@ -21,3 +21,5 @@
 #    - Dictionary with mixed value types
 #    - Dictionary using dict() constructor
 #    Print each dictionary
+
+print("\n--- Q1: Creating Dictionaries ---")
