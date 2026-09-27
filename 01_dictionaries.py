@@ -83,3 +83,13 @@ print("Course (using get()):", student.get('course'))
 print("Course (with default):", student.get('course', 'Not Assigned'))
 
 # ----------------------------------------------------------
+
+# Q4: Check if key exists
+#    Given:
+#         car = {'brand' : 'BMW', 'model' : 'Alpina-XB7',
+#                   'year' : 2026 }
+#    Check:
+#    - Is 'brand' in dictionary?
+#    - Is 'color' in dictionary?
+#    - Is 'model' not in dictionary?
+#    Use 'in' and 'not in' operators
