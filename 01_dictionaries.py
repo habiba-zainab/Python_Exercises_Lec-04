@@ -70,3 +70,5 @@ print("Dictionary: ", combined)
 #    - Name using student ['name']
 #    - Age using student  ['age']
 #    - Use get() method to safely access 'course'
+
+print("\n--- Q3: Accessing Values ---")
