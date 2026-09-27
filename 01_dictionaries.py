@@ -93,3 +93,14 @@ print("Course (with default):", student.get('course', 'Not Assigned'))
 #    - Is 'color' in dictionary?
 #    - Is 'model' not in dictionary?
 #    Use 'in' and 'not in' operators
+
+print("\n--- Q4: Key Membership ---")
+
+car = {'brand' : 'BMW', 'model' : 'Alpina-XB7', 'year' : 2026 }
+print("Car: ", car)
+
+print("'brand' in car: ", 'brand' in car)
+print("'color' in car: ", 'color' in car)
+print("'model' not in car: ", 'model' not in car)
+
+# ----------------------------------------------------------
