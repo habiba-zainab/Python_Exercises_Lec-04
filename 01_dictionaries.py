@@ -118,3 +118,19 @@ print("'model' not in car: ", 'model' not in car)
 #    - Increase stock by 5
 #    - Add new key 'discount' with value 10
 #    Print dictionary after each change 
+
+print("\n--- Q5: Modifying Values ---")
+
+product = {'name' : 'Laptop', 'price' : 10000, 'stock' : 10}
+print("Original: ", product)
+
+product['price'] = 9999
+print("After stock update: ", product)
+
+product['stock'] = product['stock'] + 5
+print("After stock update: ", product)
+
+product['discount'] = 10
+print("After adding discount: ", product)
+
+# ----------------------------------------------------------
