@@ -61,3 +61,12 @@ print("Dictionary: ", combined)
 # ==========================================================
 # PART B:   Accessing Dictionary Values
 # ==========================================================
+
+# Q3: Access dictionary values
+#    Given: 
+#         student = {'name' : 'Alice', 'age' : 20, 
+#                    'grade' : 'A', 'gpa' : 3.8}
+#    Access: 
+#    - Name using student ['name']
+#    - Age using student  ['age']
+#    - Use get() method to safely access 'course'
