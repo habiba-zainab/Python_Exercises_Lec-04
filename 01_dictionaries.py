@@ -165,3 +165,24 @@ print("Note: 'c' value from dict2 (4) overwrites dict1 (3)")
 # ==========================================================
 # PART D:   Dictionary Properties & Transformation
 # ==========================================================
+
+# Q7: Dictionary length and keys
+#    Given: scores = {'math': 95, 'science': 88, 
+#                       'english': 92, 'history': 85}
+#    Find:
+#    - Number of subjects (length)
+#    - All subject names (keys)
+#    - All scores (values)
+#    - Check if any score is above 90
+
+print("\n--- Q7: Dictionary Properties ---")
+
+scores = {'math': 95, 'science': 88, 'english': 92, 'history': 85}
+print("Scores: ", scores)
+
+print("Nunber of subjects: ", len(scores))
+print("Subjects: ", scores.keys())
+print("Scores: ", scores.values())
+print("Any score > 90: ", any(score > 90 for score in scores.values()))
+
+# ----------------------------------------------------------
