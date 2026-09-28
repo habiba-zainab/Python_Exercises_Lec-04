@@ -197,3 +197,7 @@ print("\n--- Q8: Invert Dictionaries ---")
 original = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
 print("Original: ", original)
 
+inverted = {value: key for key, value in original.items()}
+print("Inverted: ", inverted)
+
+# ----------------------------------------------------------
