@@ -25,3 +25,12 @@ print("\n--- Q1: keys(), values(), items() ---")
 book = {'title': 'Atomic Habits', 'author': 'James Clear', 'year': 2018, 'pages': 320}
 print("Book: ", book)
 
+keys = list(book.keys())
+values = list(book.values())
+items = list(book.items())
+
+print("Keys: ", keys)
+print("Values: ", values)
+print("Items: ", items)
+
+# ----------------------------------------------------------
