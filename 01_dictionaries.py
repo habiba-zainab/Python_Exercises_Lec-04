@@ -191,3 +191,9 @@ print("Any score > 90: ", any(score > 90 for score in scores.values()))
 #    Given: original = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
 #    Create new dictionary with values as keys and keys as values
 #    Handle case where values might not be unique
+
+print("\n--- Q8: Invert Dictionaries ---")
+
+original = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+print("Original: ", original)
+
