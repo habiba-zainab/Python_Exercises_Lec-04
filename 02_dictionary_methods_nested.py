@@ -20,3 +20,8 @@
 #    - items() to get key-value pairs
 #    Convert to lists and print
 
+print("\n--- Q1: keys(), values(), items() ---")
+
+book = {'title': 'Atomic Habits', 'author': 'James Clear', 'year': 2018, 'pages': 320}
+print("Book: ", book)
+
