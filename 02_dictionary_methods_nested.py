@@ -43,3 +43,8 @@ print("Items: ", items)
 #    - 'font_size' (doesn't exist, no default)
 #    - 'font_size' (doesn't exist, default 12)
 #    - 'volume' (doesn't exist, default 50)
+
+print("\n--- Q2: get() method ---")
+
+settings = {'theme': 'dark', 'language': 'en', 'notifications': True}
+print("Settings: ", settings)
