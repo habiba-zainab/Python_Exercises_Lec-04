@@ -48,3 +48,10 @@ print("\n--- Q2: get() method ---")
 
 settings = {'theme': 'dark', 'language': 'en', 'notifications': True}
 print("Settings: ", settings)
+
+print("theme:", settings.get('theme'))
+print("font_size (no default):", settings.get('font_size'))
+print("font_size (default 12):", settings.get('font_size', 12))
+print("volume (default 50):", settings.get('volume', 50))
+
+# ----------------------------------------------------------
