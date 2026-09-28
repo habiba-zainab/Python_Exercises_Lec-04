@@ -143,3 +143,13 @@ print("After adding discount: ", product)
 #    - {**dict1, **dict2} unpacking
 #    - | operator (Python 3.9+)
 #    Show that 'c' value is overwritten
+
+print("\n--- Q6: Merging Dictionaries ---")
+
+dict1 = {'a' : 1, 'b': 2, 'c': 3}
+dict2 = {'c': 4, 'd': 5, 'e': 6}
+
+print("dict1: ", dict1)
+print("dict2: ", dict2)
+print()
+
