@@ -134,3 +134,12 @@ product['discount'] = 10
 print("After adding discount: ", product)
 
 # ----------------------------------------------------------
+
+# Q6: Merge two dictinaries
+#    Given: dict1 = {'a': 1, 'b': 2, 'c': 3}
+#           dict2 = {'c': 4, 'd': 5, 'e': 6}
+#    Merge using:
+#    - update() method
+#    - {**dict1, **dict2} unpacking
+#    - | operator (Python 3.9+)
+#    Show that 'c' value is overwritten
