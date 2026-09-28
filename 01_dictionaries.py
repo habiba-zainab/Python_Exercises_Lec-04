@@ -153,3 +153,11 @@ print("dict1: ", dict1)
 print("dict2: ", dict2)
 print()
 
+#  Method 1: update()
+merged1 = dict1.copy()
+merged1.update(dict2)
+
+print("Merged: ", merged1)
+print("Note: 'c' value from dict2 (4) overwrites dict1 (3)")
+
+# ----------------------------------------------------------
