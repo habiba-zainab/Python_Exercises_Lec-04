@@ -186,3 +186,8 @@ print("Scores: ", scores.values())
 print("Any score > 90: ", any(score > 90 for score in scores.values()))
 
 # ----------------------------------------------------------
+
+# Q8: Invert dictionary (swap keys and values)
+#    Given: original = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+#    Create new dictionary with values as keys and keys as values
+#    Handle case where values might not be unique
