@@ -34,3 +34,12 @@ print("Values: ", values)
 print("Items: ", items)
 
 # ----------------------------------------------------------
+
+# Q2:  get() method with default values
+#    Given: settings = {'theme': 'dark', 'language': 'en',
+#                          'notifications': True}
+#    Get:
+#    - 'theme' (exists)
+#    - 'font_size' (doesn't exist, no default)
+#    - 'font_size' (doesn't exist, default 12)
+#    - 'volume' (doesn't exist, default 50)
