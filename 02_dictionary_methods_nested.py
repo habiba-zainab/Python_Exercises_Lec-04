@@ -71,3 +71,7 @@ print("\n--- Q3: update() method ---")
 
 profile = {'name' : 'Stacey', 'age' : 23}
 print("Original: ", profile)
+
+profile.update({'age' : 24, 'city' : 'London'})
+print("After first update: ", profile)
+
