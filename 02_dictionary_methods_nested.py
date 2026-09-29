@@ -79,3 +79,10 @@ profile.update({'job' : 'Engineer', 'city' : 'Edinburgh'})
 print("After second update: ", profile)
 
 # ----------------------------------------------------------
+
+# Q4:  pop() and popitem() methods
+#    Given: data = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+#    - Pop 'b' and store the value
+#    - Pop 'z' with default value 0
+#    - Pop last item using popitem()
+#    Print removed values and remaining dictionary
