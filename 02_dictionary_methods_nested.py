@@ -66,3 +66,8 @@ print("volume (default 50):", settings.get('volume', 50))
 #    - {'age' : 24, 'city' : 'London'}
 #    - {'job' : Engineer, 'city' : 'Edinburgh'}
 #    Show that existing keys are overwritten
+
+print("\n--- Q3: update() method ---")
+
+profile = {'name' : 'Stacey', 'age' : 23}
+print("Original: ", profile)
