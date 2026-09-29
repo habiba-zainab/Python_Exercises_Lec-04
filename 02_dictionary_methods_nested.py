@@ -57,5 +57,6 @@ print("volume (default 50):", settings.get('volume', 50))
 # ----------------------------------------------------------
 
 # ==========================================================
-# PART B:   Dictionary Utility Methods
+# PART B:   Dictionary Modification Methods
 # ==========================================================
+
