@@ -75,3 +75,7 @@ print("Original: ", profile)
 profile.update({'age' : 24, 'city' : 'London'})
 print("After first update: ", profile)
 
+profile.update({'job' : 'Engineer', 'city' : 'Edinburgh'})
+print("After second update: ", profile)
+
+# ----------------------------------------------------------
