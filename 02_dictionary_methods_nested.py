@@ -60,3 +60,9 @@ print("volume (default 50):", settings.get('volume', 50))
 # PART B:   Dictionary Modification Methods
 # ==========================================================
 
+# Q3:  update() method
+#    Given:     profile = {'name' : 'Stacey', 'age' : 23}
+#    Update with: 
+#    - {'age' : 24, 'city' : 'London'}
+#    - {'job' : Engineer, 'city' : 'Edinburgh'}
+#    Show that existing keys are overwritten
