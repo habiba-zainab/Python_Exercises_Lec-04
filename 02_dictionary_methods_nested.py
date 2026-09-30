@@ -86,3 +86,21 @@ print("After second update: ", profile)
 #    - Pop 'z' with default value 0
 #    - Pop last item using popitem()
 #    Print removed values and remaining dictionary
+
+print("\n--- Q4: pop() & popitem() ---")
+
+data = {'a': 1, 'b': 2, 'c': 3, 'd': 4}
+print("Original: ", data)
+
+popped_b = data.pop('b')
+print("Popped 'b': ", popped_b)
+print("After pop: ", data)
+
+popped_z = data.pop('z', 0)
+print("Popped 'z' (with default): ", popped_z)
+
+last_item = data.popitem()
+print("Popped last item: ", last_item)
+print("Final: ", data)
+
+# ----------------------------------------------------------
