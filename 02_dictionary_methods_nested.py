@@ -104,3 +104,11 @@ print("Popped last item: ", last_item)
 print("Final: ", data)
 
 # ----------------------------------------------------------
+
+# Q5:  clear() and copy() methods
+#    Given:  original = {'x' : 10, 'y' : 20, 'z' : 30}
+#    - Create shallow copy
+#    - Modify copy
+#    - Show original is unchanged
+#    - Clear the copy
+#    - Show original still has data
