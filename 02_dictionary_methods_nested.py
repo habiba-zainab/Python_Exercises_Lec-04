@@ -181,3 +181,6 @@ org['dept1']['budget'] = 120000
 print("After updating budget: ")
 print()
 
+org['dept2'] = {'manager': 'Bob', 'budget': 80000}
+print("After adding dept2:")
+print(org)
