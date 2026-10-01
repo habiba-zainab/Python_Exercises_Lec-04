@@ -176,3 +176,8 @@ org['dept1']['employees'] = 10
 print("After adding 'employees': ")
 print(org)
 print()
+
+org['dept1']['budget'] = 120000
+print("After updating budget: ")
+print()
+
