@@ -121,3 +121,16 @@ print("\n--- Q5: clear() & copy() ---")
 
 original = {'x' : 10, 'y' : 20, 'z' : 30}
 print("Original: ", original)
+
+copy_dict = original.copy()
+print("Copy: ", copy_dict)
+
+copy_dict['y'] = 999
+print("Modified copy:", copy_dict)
+print("Original unchanged:", original)
+
+copy_dict.clear()
+print("After clear():", copy_dict)
+print("Original still intact:", original)
+
+# ----------------------------------------------------------
