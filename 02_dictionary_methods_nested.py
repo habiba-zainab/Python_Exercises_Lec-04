@@ -157,3 +157,10 @@ print("From range: ", from_range)
 # ==========================================================
 # PART D:   Nested Dictionary Method
 # ==========================================================
+
+# Q7:  Modify nested dictionary
+#    Given nested structure, perform operations:
+#    - Add new key to inner dictionary
+#    - Update value in nested dict
+#    - Delete key from nested dict
+#    - Add entire new nested section
