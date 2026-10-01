@@ -3,7 +3,7 @@
 ==================================================================
    LECTURE 04 - SET 02 : DICTIONARY METHODS & NESTED DICTIONARIES
    Topics : Dictionary Methods and Nested Dictionaries
-   Total Questions :  06
+   Total Questions :  07
 ==================================================================
 
 """
@@ -184,3 +184,5 @@ print()
 org['dept2'] = {'manager': 'Bob', 'budget': 80000}
 print("After adding dept2:")
 print(org)
+
+# ----------------------------------------------------------
