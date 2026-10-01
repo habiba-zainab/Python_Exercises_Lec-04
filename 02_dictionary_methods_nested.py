@@ -140,3 +140,16 @@ print("Original still intact:", original)
 #    - From list ['a', 'b', 'c'] with default value 0
 #    - From tuple ('x', 'y', 'z') with default value []
 #    - From range(1, 6) with default value 'number'
+
+print("\n--- Q6: fromkeys() method ---")
+
+from_list = dict.fromkeys(['a', 'b', 'c'], 0)
+print("From list: ", from_list)
+
+from_tuple = dict.fromkeys(('x', 'y', 'z'), [])
+print("From tuple: ", from_tuple)
+
+from_range = dict.fromkeys(range(1,6), 'number')
+print("From range: ", from_range)
+
+# ----------------------------------------------------------
