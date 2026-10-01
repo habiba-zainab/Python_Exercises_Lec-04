@@ -164,3 +164,10 @@ print("From range: ", from_range)
 #    - Update value in nested dict
 #    - Delete key from nested dict
 #    - Add entire new nested section
+
+print("\n--- Q7: Modify Nested Dictionary ---")
+
+org = {'dept1': {'manager' : 'Alice', 'budget' : 100000}}
+print("Original: ")
+print(org)
+print()
