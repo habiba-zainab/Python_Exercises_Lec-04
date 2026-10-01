@@ -171,3 +171,8 @@ org = {'dept1': {'manager' : 'Alice', 'budget' : 100000}}
 print("Original: ")
 print(org)
 print()
+
+org['dept1']['employees'] = 10
+print("After adding 'employees': ")
+print(org)
+print()
