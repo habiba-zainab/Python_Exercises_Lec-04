@@ -134,3 +134,9 @@ print("After clear():", copy_dict)
 print("Original still intact:", original)
 
 # ----------------------------------------------------------
+
+# Q6:  fromkeys() method
+#    Create dictionaries using fromkeys():
+#    - From list ['a', 'b', 'c'] with default value 0
+#    - From tuple ('x', 'y', 'z') with default value []
+#    - From range(1, 6) with default value 'number'
