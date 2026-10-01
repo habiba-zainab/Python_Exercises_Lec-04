@@ -116,3 +116,8 @@ print("Final: ", data)
 #    - Show original is unchanged
 #    - Clear the copy
 #    - Show original still has data
+
+print("\n--- Q5: clear() & copy() ---")
+
+original = {'x' : 10, 'y' : 20, 'z' : 30}
+print("Original: ", original)
