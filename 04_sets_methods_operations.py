@@ -29,3 +29,6 @@ print("After add(4): ", my_set)
 
 my_set.add(2)
 print("After add(2): ", my_set, "(no change)")
+
+my_set.update([5, 6, 7])
+print("After update([5, 6, 7]): ", my_set)
