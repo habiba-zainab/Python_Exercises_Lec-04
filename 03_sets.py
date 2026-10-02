@@ -80,3 +80,10 @@ print("Average: ", sum(numbers) / len(numbers))
 # ==========================================================
 # PART B:   Uniqueness & Deduplication
 # ==========================================================
+
+# Q4: Sets remove duplicates automatically
+#    Given: 
+#           numbers = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5]
+#    Convert to set to remove duplicates
+#    Compare original length vs set length
+#    Convert back to sorted list
