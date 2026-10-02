@@ -93,3 +93,7 @@ print("All Items (Union): ", cart | wishlist)
 print("Common Items (Intersection): ", cart & wishlist)
 print("Only in Cart (Difference): ", cart - wishlist)
 print("Either but not Both (Symmetric Difference): ", cart ^ wishlist)
+
+# Set relationship inspections
+print("\nCart & Owned disjoint (no overlaps): ", cart.isdisjoint(owned))
+print("Is wishlist a subset of cart? ", wishlist.issubset(cart))
