@@ -185,3 +185,10 @@ print("Failed (operator): ", failed_operator)
 #    - Is evens subset of all_nums?
 #    - Is all_nums superset of small?
 #    - Is large superset of all_nums?
+
+print("\n--- Q7: subset & superset ---")
+
+all_nums = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10}
+evens = {2, 4, 6, 8, 10}
+small = {1, 2, 3}
+large = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11}
