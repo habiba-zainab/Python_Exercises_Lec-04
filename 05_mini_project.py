@@ -33,3 +33,10 @@ print("Total Keys: ", len(product), "| Popped Brand: ", product.pop('brand'))
 # ----------------------------------------------------------
 #    STEP 02:     Inventory Database 
 # ----------------------------------------------------------
+
+print("\n--- Inventory Database ---")
+
+inventory = {
+    'P01' : {'name' : 'Laptop', 'price' : 9999},
+    'P02' : {'name' : 'Mouse', 'price' : 250}
+}
