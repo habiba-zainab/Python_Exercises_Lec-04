@@ -12,3 +12,5 @@ A personal Python learning repository documenting my progress through **Lecture 
 This repository contains my practice work for Lecture 04, focusing on working with dictionaries and sets to organize, map, and manipulate complex data structures in Python, and a Shopping Cart & Inventory project.
 
 ---
+
+## 📖 Topics Covered
