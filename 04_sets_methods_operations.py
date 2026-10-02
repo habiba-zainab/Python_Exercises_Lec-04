@@ -37,3 +37,10 @@ my_set.update({8, 9})
 print("After update({8, 9}): ", my_set)
 
 # ----------------------------------------------------------
+
+# Q2:  pop() and clear() methods
+#    Given: numbers = {10, 20, 30, 40, 50} 
+#    - Pop one element (random)
+#    - Pop another element
+#    - Show remaining set
+#    - Clear the set
