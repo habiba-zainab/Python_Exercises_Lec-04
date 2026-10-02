@@ -58,3 +58,9 @@ print("Default Inventory Stock: ", dict.fromkeys(['P01', 'P02'], 0))
 # ----------------------------------------------------------
 #    STEP 03:     Cart Selection 
 # ----------------------------------------------------------
+
+print("\n--- Cart Selection ---")
+
+cart = {'Laptop', 'Mouse'}
+wishlist = {'Keyboard', 'Monitor', 'Mouse'}
+print("Cart: ", cart, "| Wishlist: ", wishlist)
