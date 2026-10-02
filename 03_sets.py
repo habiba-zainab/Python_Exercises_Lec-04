@@ -87,3 +87,9 @@ print("Average: ", sum(numbers) / len(numbers))
 #    Convert to set to remove duplicates
 #    Compare original length vs set length
 #    Convert back to sorted list
+
+print("\n--- Q4: Remove Duplicates ---")
+
+numbers = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5]
+print("Original list: ", numbers)
+print("Length: ", len(numbers))
