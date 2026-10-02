@@ -30,3 +30,6 @@ print("Updated Product: ", product)
 print("Keys: ", list(product.keys()), "| Values: ", list(product.values()))
 print("Total Keys: ", len(product), "| Popped Brand: ", product.pop('brand'))
 
+# ----------------------------------------------------------
+#    STEP 02:     Inventory Database 
+# ----------------------------------------------------------
