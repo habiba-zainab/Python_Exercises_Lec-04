@@ -116,3 +116,13 @@ print("A | B (operator): ", set_a | set_b)
 print("A | B | C: ", set_a | set_b | set_c)
 
 # ----------------------------------------------------------
+
+# Q5:  intersection() - Common elements
+#    Given: 
+#     students_math = {'Alice', 'Bob', 'Charlie', 'David'}
+#     students_science = {'Bob', 'David', 'Eve', 'Frank'}
+#     students_english = {'Alice', 'David', 'Eve'}
+#    Find: 
+#    - Students in both math and science
+#    - Students in all three subjects
+#    - Use both method and & operator
