@@ -40,3 +40,9 @@ inventory = {
     'P01' : {'name' : 'Laptop', 'price' : 9999},
     'P02' : {'name' : 'Mouse', 'price' : 250}
 }
+
+# Accessing and modifying nested dictionaries
+print("Laptop Price: ", inventory['P01']['price'])
+
+inventory['P01']['stock'] = 10
+print("Updated Laptop Info: ", inventory['P01'])
