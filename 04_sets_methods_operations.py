@@ -26,3 +26,6 @@ print("Start: ", my_set)
 
 my_set.add(4)
 print("After add(4): ", my_set)
+
+my_set.add(2)
+print("After add(2): ", my_set, "(no change)")
