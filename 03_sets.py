@@ -103,3 +103,9 @@ sorted_list = sorted(list(unique_set))
 print("Back to sorted list: ", sorted_list)
 
 # ----------------------------------------------------------
+
+# Q5: Find unique characters in string
+#    Given:      text = "programming"
+#    Find all unique characters
+#    Count total vs unique characters
+#    Show characters in sorted order
