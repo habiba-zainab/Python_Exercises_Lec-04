@@ -135,3 +135,5 @@ print("Math: ", students_math)
 students_science = {'Bob', 'David', 'Eve', 'Frank'}
 print("Science: ", students_science)
 
+students_english = {'Alice', 'David', 'Eve'}
+print("English: ", students_english)
