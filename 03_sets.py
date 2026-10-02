@@ -186,3 +186,11 @@ print("Back to set:", back_to_set)
 #    - Elements only in list1 (difference)
 #    - Elements only in list2 (difference)
 #    - All unique elements (union)
+
+print("\n--- Q8: Common & Unique ---")
+
+list1 = [1, 2, 3, 4, 5, 6]
+list2 = [4, 5, 6, 7, 8, 9]
+
+print("List 1: ", list1)
+print("List 2: ", list2)
