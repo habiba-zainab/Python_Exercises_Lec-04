@@ -86,3 +86,7 @@ print("Original unchanged: ", original)
 print("Are different objects: ", original is not copy_set)
 
 # ----------------------------------------------------------
+
+# ==========================================================
+# PART B:   Core Mathematical Venn Operations
+# ==========================================================
