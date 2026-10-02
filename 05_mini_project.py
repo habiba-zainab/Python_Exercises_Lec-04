@@ -54,3 +54,7 @@ print("Most Expensive Item ID: ", top[0])
 # Direct generation and default stock generation
 print("Squares Tables: ", {1 : 1, 2 : 4, 3 : 9})
 print("Default Inventory Stock: ", dict.fromkeys(['P01', 'P02'], 0))
+
+# ----------------------------------------------------------
+#    STEP 03:     Cart Selection 
+# ----------------------------------------------------------
