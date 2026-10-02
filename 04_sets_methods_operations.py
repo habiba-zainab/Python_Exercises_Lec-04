@@ -58,3 +58,8 @@ print("Remaining: ", numbers)
 popped2 = numbers.pop()
 print("Popped: ", popped2)
 print("Remaining: ", numbers)
+
+numbers.clear()
+print("After clear(): ", numbers)
+
+# ----------------------------------------------------------
