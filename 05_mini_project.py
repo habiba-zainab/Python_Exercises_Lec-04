@@ -77,3 +77,7 @@ print("After Add & Upddate: ", cart)
 cart.discard('Monitor')
 cart.remove('Laptop')
 print("After Discard & Remove: ", cart)
+
+# ----------------------------------------------------------
+#    STEP 04:     Cart Comparison & Checkout
+# ----------------------------------------------------------
