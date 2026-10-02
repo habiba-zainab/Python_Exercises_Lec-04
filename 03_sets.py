@@ -93,3 +93,9 @@ print("\n--- Q4: Remove Duplicates ---")
 numbers = [1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5]
 print("Original list: ", numbers)
 print("Length: ", len(numbers))
+
+unique_set = set(numbers)
+print("As set: ", unique_set)
+print("Length: ", len(unique_set))
+print("Duplicate removed: ", len(numbers) - len(unique_set))
+
