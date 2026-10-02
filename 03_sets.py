@@ -20,3 +20,12 @@
 #    - Set with mixed types
 #    - Set from range(1, 10)
 #    Print each and show length
+
+print("\n--- Q1: Creating Sets ---")
+
+empty = set()
+from_list = set([1, 2, 3, 4, 5])
+from_string = set("hello")
+mixed = {1, "World", 66.5, True}
+from_range = set(range(1, 10))
+
