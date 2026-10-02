@@ -63,3 +63,11 @@ numbers.clear()
 print("After clear(): ", numbers)
 
 # ----------------------------------------------------------
+
+# Q3:  copy() method
+#    Given: 
+#            original = {1, 2, 3, 4, 5}
+#    - Create copy
+#    - Modify copy
+#    - Show original is unchanged
+#    - Show they are different objects
