@@ -50,3 +50,7 @@ print("Updated Laptop Info: ", inventory['P01'])
 # Find most expensive item using max() with key parameter
 top = max(inventory.items(), key=lambda x: x[1]['price'])
 print("Most Expensive Item ID: ", top[0])
+
+# Direct generation and default stock generation
+print("Squares Tables: ", {1 : 1, 2 : 4, 3 : 9})
+print("Default Inventory Stock: ", dict.fromkeys(['P01', 'P02'], 0))
