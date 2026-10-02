@@ -100,3 +100,9 @@ print("Are different objects: ", original is not copy_set)
 #    - union() method
 #    - | operator
 #    - Union of all three sets
+
+print("\n--- Q4: union() ---")
+
+set_a = {1, 2, 3, 4}
+set_b = {3, 4, 5, 6}
+set_c = {5, 6, 7, 8}
