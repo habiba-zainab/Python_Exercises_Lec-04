@@ -19,3 +19,7 @@
 #    - Add multiple elements using update([5, 6, 7])
 #    - Update with another set {8, 9}
 
+print("\n--- Q1: add() & update() ---")
+
+my_set = {1, 2, 3}
+print("Start: ", my_set)
