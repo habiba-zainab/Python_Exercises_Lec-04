@@ -71,3 +71,11 @@ print("After clear(): ", numbers)
 #    - Modify copy
 #    - Show original is unchanged
 #    - Show they are different objects
+
+print("\n--- Q3: copy() method ---")
+
+original = {1, 2, 3, 4, 5}
+copy_set = original.copy()
+
+print("Original: ", original)
+print("Copy: ", copy_set)
