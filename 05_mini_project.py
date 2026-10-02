@@ -72,3 +72,8 @@ print("Is 'Mouse' in cart? ", 'Mouse' in cart)
 cart.add('keyboard')
 cart.update(['Monitor'])
 print("After Add & Upddate: ", cart)
+
+# Safe removal (discard) and direct removal (remove)
+cart.discard('Monitor')
+cart.remove('Laptop')
+print("After Discard & Remove: ", cart)
