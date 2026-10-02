@@ -79,3 +79,10 @@ copy_set = original.copy()
 
 print("Original: ", original)
 print("Copy: ", copy_set)
+
+copy_set.update({6, 7})
+print("Modified copy: ", copy_set)
+print("Original unchanged: ", original)
+print("Are different objects: ", original is not copy_set)
+
+# ----------------------------------------------------------
