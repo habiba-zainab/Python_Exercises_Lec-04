@@ -51,3 +51,6 @@ print("\n--- Q2: pop() & clear() ---")
 numbers = {10, 20, 30, 40, 50}
 print("Original: ", numbers)
 
+popped1 = numbers.pop()
+print("Popped: ", popped1, "(random element)")
+print("Reamining: ", numbers)
