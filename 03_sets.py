@@ -36,3 +36,10 @@ print("Mixed: ", mixed, "(Length: ", len(mixed), ")")
 print("From range: ", from_range, "(Length: ", len(range), ")")
 
 # ----------------------------------------------------------
+
+# Q2: Sets are unordered
+#    Create same set multiple times:
+#    set1 = {5, 2, 8, 1, 9}
+#    set2 = {1, 2, 5, 8, 9}
+#    Show they arre equal even though order is different 
+#    Show that sets don't support indexing
