@@ -53,4 +53,8 @@ print("Original: ", numbers)
 
 popped1 = numbers.pop()
 print("Popped: ", popped1, "(random element)")
-print("Reamining: ", numbers)
+print("Remaining: ", numbers)
+
+popped2 = numbers.pop()
+print("Popped: ", popped2)
+print("Remaining: ", numbers)
