@@ -176,3 +176,13 @@ print("Back to set:", back_to_set)
 # ==========================================================
 # PART D:   Mathematical Operations
 # ==========================================================
+
+# Q8: Find common and unique elements in lists
+#    Given:  
+#             list1 = [1, 2, 3, 4, 5, 6]
+#             list2 = [4, 5, 6, 7, 8, 9]
+#    Find: 
+#    - Common elements (intersection)
+#    - Elements only in list1 (difference)
+#    - Elements only in list2 (difference)
+#    - All unique elements (union)
