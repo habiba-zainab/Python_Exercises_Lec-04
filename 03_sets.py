@@ -109,3 +109,9 @@ print("Back to sorted list: ", sorted_list)
 #    Find all unique characters
 #    Count total vs unique characters
 #    Show characters in sorted order
+
+print("\n--- Q5: Unique Characters ---")
+
+text = "programming"
+print("Text: ", repr(text))
+print("Total characters: ", len(text))
