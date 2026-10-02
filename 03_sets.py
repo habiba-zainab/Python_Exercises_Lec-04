@@ -194,3 +194,6 @@ list2 = [4, 5, 6, 7, 8, 9]
 
 print("List 1: ", list1)
 print("List 2: ", list2)
+
+set1 = set(list1)
+set2 = set(list2)
