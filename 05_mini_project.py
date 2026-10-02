@@ -20,3 +20,6 @@ print("\n--- Product Details ---")
 product = {'name' : 'Laptop', 'price' : 9999, 'stock' : 10}
 print("Product: ", product)
 
+# Safe reading, modifying, updating, and property checking
+print("Name: ", product.get('name'), "| Color: ", product.get('color', 'N/A'))
+
