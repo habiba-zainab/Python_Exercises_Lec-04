@@ -126,3 +126,8 @@ print("A | B | C: ", set_a | set_b | set_c)
 #    - Students in both math and science
 #    - Students in all three subjects
 #    - Use both method and & operator
+
+print("\n--- Q5: intersection() ---")
+
+students_math = {'Alice', 'Bob', 'Charlie', 'David'}
+print("Math: ", students_math)
