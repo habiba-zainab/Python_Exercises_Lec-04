@@ -159,3 +159,6 @@ print("\n--- Q7: Set ↔ List Conversion ---")
 
 my_set = {3, 1, 4, 1, 5, 9, 2, 6}
 print("Original set: ", my_set)
+
+as_list = list(my_set)
+print("As list: ", as_list)
