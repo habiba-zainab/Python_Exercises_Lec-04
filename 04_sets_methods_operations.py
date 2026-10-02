@@ -23,3 +23,6 @@ print("\n--- Q1: add() & update() ---")
 
 my_set = {1, 2, 3}
 print("Start: ", my_set)
+
+my_set.add(4)
+print("After add(4): ", my_set)
