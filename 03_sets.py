@@ -115,3 +115,10 @@ print("\n--- Q5: Unique Characters ---")
 text = "programming"
 print("Text: ", repr(text))
 print("Total characters: ", len(text))
+
+unique_chars = set(text)
+print("Unique characters: ", unique_chars)
+print("Unique count: ", unique_chars)
+print("Sorted: ", sorted(unique_chars))
+
+# ----------------------------------------------------------
