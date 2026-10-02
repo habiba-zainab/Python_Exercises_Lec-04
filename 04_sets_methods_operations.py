@@ -162,3 +162,11 @@ passed = {'Stacey', 'Kevin', 'Lina'}
 
 print("All students: ", all_students)
 print("Passed: ", passed)
+
+failed_method = all_students.difference(passed)
+failed_operator = all_students - passed
+
+print("\nFailed (method): ", failed_method)
+print("Failed (operator): ", failed_operator)
+
+# ----------------------------------------------------------
