@@ -7,3 +7,8 @@ Structured Python exercises exploring associative data structures, nested dictio
 A personal Python learning repository documenting my progress through **Lecture 04: Dictionaries & Sets**. This collection includes structured exercises, key-value data management, mathematical set operations, and an interactive shopping cart & inventory project.
 
 ---
+
+## 📚 Overview
+This repository contains my practice work for Lecture 04, focusing on working with dictionaries and sets to organize, map, and manipulate complex data structures in Python, and a Shopping Cart & Inventory project.
+
+---
