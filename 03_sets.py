@@ -146,3 +146,11 @@ print("'mango' in fruits: ", 'mango' in fruits)
 print("'banana' not in fruits: ", 'banana' not in fruits)
 
 # ----------------------------------------------------------
+
+# Q7: Convert between set and list
+#    Given: 
+#           my_set = {3, 1, 4, 1, 5, 9, 2, 6}
+#    Convert to list
+#    Sort the list
+#    Access specific elements
+#    Convert back to set
