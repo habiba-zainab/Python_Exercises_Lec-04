@@ -14,3 +14,9 @@
 # ----------------------------------------------------------
 #    STEP 01:     Product Details 
 # ----------------------------------------------------------
+
+print("\n--- Product Details ---")
+
+product = {'name' : 'Laptop', 'price' : 9999, 'stock' : 10}
+print("Product: ", product)
+
