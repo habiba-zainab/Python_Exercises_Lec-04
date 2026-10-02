@@ -131,3 +131,7 @@ print("\n--- Q5: intersection() ---")
 
 students_math = {'Alice', 'Bob', 'Charlie', 'David'}
 print("Math: ", students_math)
+
+students_science = {'Bob', 'David', 'Eve', 'Frank'}
+print("Science: ", students_science)
+
