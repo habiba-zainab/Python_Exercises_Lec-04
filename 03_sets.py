@@ -122,3 +122,7 @@ print("Unique count: ", unique_chars)
 print("Sorted: ", sorted(unique_chars))
 
 # ----------------------------------------------------------
+
+# ==========================================================
+# PART C:   Set Membership Testing & Type Conversion
+# ==========================================================
