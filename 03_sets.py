@@ -167,3 +167,8 @@ sorted_list = sorted(as_list)
 print("Sorted: ", sorted_list)
 print("First element: ", sorted_list[0])
 print("Last element: ", sorted_list[-1])
+
+back_to_set = set(sorted_list)
+print("Back to set:", back_to_set)
+
+# ----------------------------------------------------------
