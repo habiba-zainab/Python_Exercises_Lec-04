@@ -26,3 +26,7 @@ print("Name: ", product.get('name'), "| Color: ", product.get('color', 'N/A'))
 product['price'] = 8999
 product.update({'stock' : 15, 'brand' : 'hp'})
 print("Updated Product: ", product)
+
+print("Keys: ", list(product.keys()), "| Values: ", list(product.values()))
+print("Total Keys: ", len(product), "| Popped Brand: ", product.pop('brand'))
+
