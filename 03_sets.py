@@ -41,5 +41,15 @@ print("From range: ", from_range, "(Length: ", len(range), ")")
 #    Create same set multiple times:
 #    set1 = {5, 2, 8, 1, 9}
 #    set2 = {1, 2, 5, 8, 9}
-#    Show they arre equal even though order is different 
-#    Show that sets don't support indexing
+#    Show they are equal even though order is different 
+
+print("\n--- Q2: Unordered Nature ---")
+
+set1 = {5, 2, 8, 1, 9}
+set2 = {1, 2, 5, 8, 9}
+
+print("set1: ", set1)
+print("set2: ", set2)
+print("Are equal: ", set1 == set2)
+
+# ----------------------------------------------------------
