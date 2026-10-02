@@ -46,3 +46,8 @@ print("After update({8, 9}): ", my_set)
 #    - Show remaining set
 #    - Clear the set
 
+print("\n--- Q2: pop() & clear() ---")
+
+numbers = {10, 20, 30, 40, 50}
+print("Original: ", numbers)
+
