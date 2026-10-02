@@ -64,3 +64,6 @@ print("\n--- Cart Selection ---")
 cart = {'Laptop', 'Mouse'}
 wishlist = {'Keyboard', 'Monitor', 'Mouse'}
 print("Cart: ", cart, "| Wishlist: ", wishlist)
+
+# Membership testing
+print("Is 'Mouse' in cart? ", 'Mouse' in cart)
