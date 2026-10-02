@@ -213,3 +213,9 @@ print("large ⊇ all: ", large.issuperset(all_nums))
 #    - Are set_a and set_b disjoint?
 #    - Are set_a and set_c disjoint?
 #    - Are set_b and set_c disjoint?
+
+print("\n--- Q8: isdisjoint() ---")
+
+set_a = {1, 2, 3}
+set_b = {4, 5, 6}
+set_c = {3, 4, 5}
