@@ -154,3 +154,11 @@ print("All three subjects: ", all_three)
 #    Find: 
 #    - Students who failed (in all but not in passed)
 #    - Use both method and - operator
+
+print("\n--- Q6: difference() ---")
+
+all_students = {'Stacey', 'Lina', 'Zoe', 'Kevin', 'Karan'}
+passed = {'Stacey', 'Kevin', 'Lina'}
+
+print("All students: ", all_students)
+print("Passed: ", passed)
