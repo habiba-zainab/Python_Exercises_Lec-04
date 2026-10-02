@@ -63,3 +63,16 @@ print("Are equal: ", set1 == set2)
 #    - Maximum number
 #    - Sum of all nuumbers
 #    - Average
+
+print("\n--- Q3: Set Statistics ---")
+
+numbers = {45, 12, 78, 23, 67, 89, 34, 56}
+
+print("Numbers: ", numbers)
+print("Length: ", len(numbers))
+print("Minimum: ", min(numbers))
+print("Maximum: ", max(numbers))
+print("Sum: ", sum(numbers))
+print("Average: ", sum(numbers) / len(numbers))
+
+# ----------------------------------------------------------
