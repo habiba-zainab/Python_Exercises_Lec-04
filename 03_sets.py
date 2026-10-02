@@ -154,3 +154,8 @@ print("'banana' not in fruits: ", 'banana' not in fruits)
 #    Sort the list
 #    Access specific elements
 #    Convert back to set
+
+print("\n--- Q7: Set ↔ List Conversion ---")
+
+my_set = {3, 1, 4, 1, 5, 9, 2, 6}
+print("Original set: ", my_set)
