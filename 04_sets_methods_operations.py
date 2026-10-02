@@ -137,3 +137,11 @@ print("Science: ", students_science)
 
 students_english = {'Alice', 'David', 'Eve'}
 print("English: ", students_english)
+
+math_and_science = students_math.intersection(students_science)
+all_three = students_math & students_science & students_english
+
+print("\nMath AND Science: ", math_and_science)
+print("All three subjects: ", all_three)
+
+# ----------------------------------------------------------
