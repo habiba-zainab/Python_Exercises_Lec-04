@@ -110,3 +110,9 @@ set_c = {5, 6, 7, 8}
 print("Set A: ", set_a)
 print("Set B: ", set_b)
 print("Set C: ", set_c)
+
+print("\nA union B (method): ", set_a.union(set_b))
+print("A | B (operator): ", set_a | set_b)
+print("A | B | C: ", set_a | set_b | set_c)
+
+# ----------------------------------------------------------
