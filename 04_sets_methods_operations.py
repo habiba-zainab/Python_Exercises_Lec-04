@@ -197,3 +197,9 @@ print("All: ", all_nums)
 print("Evens: ", evens)
 print("Small: ", small)
 print("Large: ", large)
+
+print("\nevens ⊆ all: ", evens.issubset(all_nums))
+print("all ⊇ small: ", all_nums.issuperset(small))
+print("large ⊇ all: ", large.issuperset(all_nums))
+
+# ----------------------------------------------------------
