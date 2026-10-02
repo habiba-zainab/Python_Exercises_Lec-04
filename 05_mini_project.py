@@ -81,3 +81,9 @@ print("After Discard & Remove: ", cart)
 # ----------------------------------------------------------
 #    STEP 04:     Cart Comparison & Checkout
 # ----------------------------------------------------------
+
+print("\n--- Cart Comparison & Checkout ---")
+
+cart = {'Laptop', 'Mouse', 'Keyboard'}
+wishlist = {'Keyboard', 'Monitor', 'Mouse'}
+owned = {'Phone', 'Tablet'}
