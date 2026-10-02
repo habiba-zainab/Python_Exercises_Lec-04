@@ -197,3 +197,10 @@ print("List 2: ", list2)
 
 set1 = set(list1)
 set2 = set(list2)
+
+print("\nCommon: ", set1.intersection(set2))
+print("Only in list1: ", set1.difference(set2))
+print("Only in list2: ", set2.difference(set1))
+print("All unique: ", set1.union(set2))
+
+# ----------------------------------------------------------
