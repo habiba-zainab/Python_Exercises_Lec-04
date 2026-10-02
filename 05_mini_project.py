@@ -87,3 +87,9 @@ print("\n--- Cart Comparison & Checkout ---")
 cart = {'Laptop', 'Mouse', 'Keyboard'}
 wishlist = {'Keyboard', 'Monitor', 'Mouse'}
 owned = {'Phone', 'Tablet'}
+
+# Mathematical operations
+print("All Items (Union): ", cart | wishlist)
+print("Common Items (Intersection): ", cart & wishlist)
+print("Only in Cart (Difference): ", cart - wishlist)
+print("Either but not Both (Symmetric Difference): ", cart ^ wishlist)
