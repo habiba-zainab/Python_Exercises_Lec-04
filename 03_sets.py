@@ -99,3 +99,7 @@ print("As set: ", unique_set)
 print("Length: ", len(unique_set))
 print("Duplicate removed: ", len(numbers) - len(unique_set))
 
+sorted_list = sorted(list(unique_set))
+print("Back to sorted list: ", sorted_list)
+
+# ----------------------------------------------------------
