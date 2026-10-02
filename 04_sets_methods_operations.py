@@ -223,3 +223,9 @@ set_c = {3, 4, 5}
 print("Set A:", set_a)
 print("Set B:", set_b)
 print("Set C:", set_c)
+
+print("\nA and B disjoint:", set_a.isdisjoint(set_b), "(no common elements)")
+print("A and C disjoint:", set_a.isdisjoint(set_c), "(common:", set_a.intersection(set_c), ")")
+print("B and C disjoint:", set_b.isdisjoint(set_c), "(common:", set_b.intersection(set_c), ")")
+
+# -----------------------------------------------------------------------------------------------
