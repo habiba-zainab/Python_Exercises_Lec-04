@@ -53,3 +53,13 @@ print("set2: ", set2)
 print("Are equal: ", set1 == set2)
 
 # ----------------------------------------------------------
+
+# Q3: Set length and min/max
+#    Given:   
+#            numbers = {45, 12, 78, 23, 67, 89, 34, 56}
+#    Find:
+#    - Length of set
+#    - Minimum number
+#    - Maximum number
+#    - Sum of all nuumbers
+#    - Average
