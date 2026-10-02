@@ -126,3 +126,12 @@ print("Sorted: ", sorted(unique_chars))
 # ==========================================================
 # PART C:   Set Membership Testing & Type Conversion
 # ==========================================================
+
+# Q6:  Set membership testing
+#    Given: 
+#            fruits = {'apple', 'banana', 'cherry', 'date'}
+#    Check: 
+#    - Is 'apple' in set?
+#    - Is 'mango' in set?
+#    - Is 'banana' not in set?
+#    Show that membership testing is very fast in sets
