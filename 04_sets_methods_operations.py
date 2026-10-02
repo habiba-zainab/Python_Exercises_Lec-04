@@ -170,3 +170,7 @@ print("\nFailed (method): ", failed_method)
 print("Failed (operator): ", failed_operator)
 
 # ----------------------------------------------------------
+
+# ==========================================================
+# PART C:   Set Relationship Inspections
+# ==========================================================
