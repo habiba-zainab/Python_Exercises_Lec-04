@@ -145,3 +145,12 @@ print("\nMath AND Science: ", math_and_science)
 print("All three subjects: ", all_three)
 
 # ----------------------------------------------------------
+
+# Q6: difference() - Elements in first but not second
+#    Given: 
+#             all_students = {'Stacey', 'Lina', 'Zoe',
+#                  'Kevin', 'Karan'}
+#             passed = {'Stacey', 'Kevin', 'Lina'}
+#    Find: 
+#    - Students who failed (in all but not in passed)
+#    - Use both method and - operator
