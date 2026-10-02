@@ -219,3 +219,7 @@ print("\n--- Q8: isdisjoint() ---")
 set_a = {1, 2, 3}
 set_b = {4, 5, 6}
 set_c = {3, 4, 5}
+
+print("Set A:", set_a)
+print("Set B:", set_b)
+print("Set C:", set_c)
