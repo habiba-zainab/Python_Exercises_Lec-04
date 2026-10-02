@@ -67,3 +67,8 @@ print("Cart: ", cart, "| Wishlist: ", wishlist)
 
 # Membership testing
 print("Is 'Mouse' in cart? ", 'Mouse' in cart)
+
+# Adding and updating items
+cart.add('keyboard')
+cart.update(['Monitor'])
+print("After Add & Upddate: ", cart)
