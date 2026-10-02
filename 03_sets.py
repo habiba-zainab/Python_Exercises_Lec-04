@@ -135,3 +135,14 @@ print("Sorted: ", sorted(unique_chars))
 #    - Is 'mango' in set?
 #    - Is 'banana' not in set?
 #    Show that membership testing is very fast in sets
+
+print("\n--- Q6: Membership Testing ---")
+
+fruits = {'apple', 'banana', 'cherry', 'date'}
+
+print("Fruits: ", fruits)
+print("'apple' in fruits: ", 'apple' in fruits)
+print("'mango' in fruits: ", 'mango' in fruits)
+print("'banana' not in fruits: ", 'banana' not in fruits)
+
+# ----------------------------------------------------------
