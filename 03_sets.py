@@ -162,3 +162,8 @@ print("Original set: ", my_set)
 
 as_list = list(my_set)
 print("As list: ", as_list)
+
+sorted_list = sorted(as_list)
+print("Sorted: ", sorted_list)
+print("First element: ", sorted_list[0])
+print("Last element: ", sorted_list[-1])
