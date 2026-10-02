@@ -29,3 +29,10 @@ from_string = set("hello")
 mixed = {1, "World", 66.5, True}
 from_range = set(range(1, 10))
 
+print("Empty: ", empty, "(Length: ", len(empty), ")")
+print("From list: ", from_list, "(Length: ", len(from_list), ")")
+print("From string: ", from_string, "(Length: ", len(from_string), ")")
+print("Mixed: ", mixed, "(Length: ", len(mixed), ")")
+print("From range: ", from_range, "(Length: ", len(range), ")")
+
+# ----------------------------------------------------------
