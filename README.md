@@ -52,3 +52,17 @@ This repository contains my practice work for Lecture 04, focusing on working wi
 | [`05_mini_project.py`](05_mini_project.py) | Shopping Cart and Inventory | Mini Project |
 
 ---
+
+## 📂 Repository Structure
+
+```text
+lecture-04/
+│
+├── 📝 01_dictionary.py                 # Dictionary Fundamentals & Key-Value Pairs
+├── 📝 02_dictionaries_methods_nested.py       # Built-in Dictionary Methods
+├── 📝 03_sets.py                       # Set Fundamentals & Unique Collections
+├── 📝 04_sets_methods_operations.py    # Set Methods & Mathematical Operations
+└── 🚀 05_mini_project.py               # 🛒 Shopping Cart & Inventory Manager
+```
+
+---
