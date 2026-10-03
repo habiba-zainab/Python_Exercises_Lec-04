@@ -33,3 +33,10 @@ This repository contains my practice work for Lecture 04, focusing on working wi
 * Unordered nature and immutability of set items
 * Creating empty sets (`set()`)
 * Duplicate elimination
+
+### ✅ Set Methods & Operations
+* **Adding and removing items:**  `add()`, `remove()`, `discard()`, `pop()`
+* **Set operations:**  Union (`|`), Intersection (`&`), Difference (`-`)
+* **Subsets and supersets:**  `issubset()`, `issuperset()`
+
+---
