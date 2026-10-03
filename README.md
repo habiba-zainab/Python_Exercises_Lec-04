@@ -40,3 +40,15 @@ This repository contains my practice work for Lecture 04, focusing on working wi
 * **Subsets and supersets:**  `issubset()`, `issuperset()`
 
 ---
+
+## 📂 Practiced Files
+
+| File | Concepts Practiced | Questions |
+| ---- | ------------------ | --------- |
+| [`01_dictionaries.py`](./01_dictionaries.py) | Dictionary Basics - Creating, Accessing, Modifying | 08 |
+| [`02_dictionary_methods_nested.py`](./02_dictionary_methods_nested.py) | Dictionary Methods and Nested Dictionaries | 07 |
+| [`03_sets.py`](./03_sets.py) | Sets Basics - Creating, Properties, Uniqueness | 08 |
+| [`04_sets_methods_operations.py`](04_sets_methods_operations.py) | Sets Methods & Mathematical Operation | 08 |
+| [`05_mini_project.py`](05_mini_project.py) | Shopping Cart and Inventory | Mini Project |
+
+---
