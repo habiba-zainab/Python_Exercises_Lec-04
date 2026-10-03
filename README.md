@@ -111,3 +111,17 @@ An interactive program that manages store inventory and processes customer shopp
 * Real-time Inventory Updates & Cart Validation
 
 ---
+
+### Current Lecture Status
+
+- [x] **Lecture 01** — Python Fundamentals ✅ COMPLETED
+- [x] **Lecture 02** — Strings & Conditionals ✅ COMPLETED
+- [x] **Lecture 03** — Lists & Tuples ✅ COMPLETED
+- [x] **Lecture 04** — Dictionaries & Sets ✅ COMPLETED
+- [ ] **Lecture 05** — Happening soon
+- [ ] **Lecture 06** — Happening soon
+- [ ] **Lecture 07** — Happening soon
+- [ ] **Lecture 08** — Happening soon
+- [ ] **Lecture 09** — Happening soon
+
+---
