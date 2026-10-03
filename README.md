@@ -71,3 +71,12 @@ lecture-04/
 
 By completing this lecture, I have learned to:
 
+* ✅ Create and manipulate key-value pairs using dictionaries
+* ✅ Retrieve and update data using dictionary methods safely
+* ✅ Work with nested dictionaries to store structured data
+* ✅ Understand sets and remove duplicates from collections
+* ✅ Perform mathematical set operations (union, intersection, difference)
+* ✅ Select the right data structure (List, Tuple, Dictionary, or Set) for specific tasks
+* ✅ Build practical management applications using combined data structures
+
+---
