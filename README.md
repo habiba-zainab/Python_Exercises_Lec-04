@@ -21,3 +21,9 @@ This repository contains my practice work for Lecture 04, focusing on working wi
 * Adding, updating, and modifying items
 * Neested dictionaries
 * Dictionary mutability
+
+### ✅ Dictionary Methods
+* **Extracting data:**  `keys()`, `values()`, `items()`
+* **Safe value access:**  `get()`
+* **Modifying dictionaries:**  `update()`, `pop()`, `popitem()`, `clear()`
+* Copying dictionaries
