@@ -93,3 +93,9 @@ My learning methodology focuses on:
 6. **Documenting learnings and observations**
 
 ---
+
+## 🚀 Mini Project
+
+### 🛒 Shopping Cart & Inventory (`05_mini_project.py`)
+
+An interactive program that manages store inventory and processes customer shopping carts using dictionaries and sets.
