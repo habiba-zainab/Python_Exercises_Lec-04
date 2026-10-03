@@ -105,3 +105,9 @@ An interactive program that manages store inventory and processes customer shopp
 * Add, update, and remove items from the cart
 * Compute itemized bills and total costs
 * Update inventory levels automatically
+
+#### 💡 Concepts Applied
+* Nested Dictionaries & Set Operations
+* Real-time Inventory Updates & Cart Validation
+
+---
