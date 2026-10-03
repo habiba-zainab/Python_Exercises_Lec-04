@@ -14,3 +14,10 @@ This repository contains my practice work for Lecture 04, focusing on working wi
 ---
 
 ## 📖 Topics Covered
+
+### ✅ Dictionary Basics
+* Dictionary creation and key-value pairs
+* Accessing values using keys
+* Adding, updating, and modifying items
+* Neested dictionaries
+* Dictionary mutability
