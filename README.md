@@ -27,3 +27,9 @@ This repository contains my practice work for Lecture 04, focusing on working wi
 * **Safe value access:**  `get()`
 * **Modifying dictionaries:**  `update()`, `pop()`, `popitem()`, `clear()`
 * Copying dictionaries
+
+### ✅ Set Basics
+* Set creation and uniqueness of elements
+* Unordered nature and immutability of set items
+* Creating empty sets (`set()`)
+* Duplicate elimination
